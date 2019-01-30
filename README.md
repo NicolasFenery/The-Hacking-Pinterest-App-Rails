@@ -1,24 +1,15 @@
-# README
+# Hacking Pinterest
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description du Projet :pushpin:
 
-Things you may want to cover:
+Une application rails qui concurrence Pinterest en liant trois tableaux; User && Pins && Comment./
+Chaque pin contient l'URL d'une image. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
 
-* Ruby version
+# Diagramme :pencil2:
 
-* System dependencies
+![alt text](https://github.com/NicolasFenery/The-Hacking-Pinterest-App-Rails/blob/master/The%20Hacking%20Pinterest%20ERD.jpeg)
 
-* Configuration
 
-* Database creation
+# Réalisé par :fire:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Nicolas && Manon Fenery
