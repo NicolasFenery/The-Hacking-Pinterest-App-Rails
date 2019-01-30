@@ -1,4 +1,4 @@
-# Hacking Pinterest\
+# Hacking Pinterest
 
 # Description du Projet :pushpin:
 
